@@ -4,6 +4,6 @@
 - In my free time I work on a procedural mesh editing and generation library named [Polyform](https://github.com/EliCDavis/polyform). A few utility libraries have spawned from it's undertaking as well that might be useful to others:
   - [quill](https://github.com/EliCDavis/quill) - Scheduler of operations on in-memory data
   - [vector](https://github.com/EliCDavis/vector) - Immutable vector math library
-  - [iter](https://github.com/EliCDavis/sfm) - Utilities for interacting with reconstruction data from different SFM programs
+  - [sfm](https://github.com/EliCDavis/sfm) - Utilities for interacting with reconstruction data from different SFM programs
   - [iter](https://github.com/EliCDavis/iter) - Iterator and utilities. Some inspiration from ReactiveX
   - [bitlib](https://github.com/EliCDavis/bitlib) - Utilities for reading and writing binary data
